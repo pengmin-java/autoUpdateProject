@@ -1,3 +1,3 @@
-<Version: 1.02>
+<Version: 1.03>
 /data/Map010.json https://raw.githubusercontent.com/pengmin-java/autoUpdateProject/master/data/Map010.json
 <End of Version>
