@@ -1,1 +1,4 @@
-
+<Version: 1.01>
+/data/Map002.json https://raw.githubusercontent.com/pengmin-java/autoUpdateProject/master/data/Map002.json
+/data/MapInfos.json https://raw.githubusercontent.com/pengmin-java/autoUpdateProject/master/data/MapInfos.json
+<End of Version>
